@@ -28,10 +28,6 @@ async def math(ctx):
     with open(f"m2u1/math/{rand_mathmem}", "rb") as file:
         mpicture = discord.File(file)
         await ctx.send(file = mpicture)
-
-
-
-
     
 bot.run("")
 

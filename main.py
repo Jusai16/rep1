@@ -33,5 +33,5 @@ async def math(ctx):
 
 
     
-bot.run("MTE1NTQ0MzU1MzIzMzc5NzE0MA.Gm8ZOk.e2xN51bETNI5uHujfDe5EiTOsaqbR364CyHBDk")
+bot.run("")
 

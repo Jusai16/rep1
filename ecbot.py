@@ -62,5 +62,5 @@ async def new(ctx, object):
             picture = discord.File(file)
             await ctx.send(file=picture)
 
-bot.run("MTE1NTQ0MzU1MzIzMzc5NzE0MA.G_YAPV.BJ9nmDoM154G9wf64y9haMOU4J_nklO4sBk25M")
+bot.run("")
 

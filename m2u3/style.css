@@ -1,0 +1,34 @@
+body {
+    font-family: Trebuchet, sans-serif; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: #FD98FB; /* Цвет фона веб-страницы */
+    color: #333333; /* Цвет основного текста */ 
+}
+h1 {
+    color: #5988FF; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+    text-decoration-color: blue;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+
+}
+h2 {
+    color:#D6FF6B;
+    font-family:Trebuchet, sans-serif;
+    font-size: 20px;
+}
+ul {
+    color:#333333;
+    font-family:Trebuchet, sans-serif;
+    font-size: 14px;
+    border: 3px solid greenyellow;
+
+}
+p {
+    color:#333333;
+    font-family:Trebuchet, sans-serif;
+    font-size: 14px;
+
+}
+
